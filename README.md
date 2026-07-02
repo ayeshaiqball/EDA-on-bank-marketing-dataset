@@ -1,6 +1,6 @@
-# 📊 Exploratory Data Analysis (EDA) on Bank Marketing Dataset
+#  Exploratory Data Analysis (EDA) on Bank Marketing Dataset
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs an **Exploratory Data Analysis (EDA)** on the Bank Marketing Dataset to understand the data, identify patterns, detect anomalies, and extract meaningful insights before applying machine learning models.
 
@@ -8,7 +8,7 @@ The analysis includes data exploration, cleaning, visualization, and statistical
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand the structure of the dataset.
 - Explore numerical and categorical features.
@@ -21,17 +21,17 @@ The analysis includes data exploration, cleaning, visualization, and statistical
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
-- Jupyter Notebook
+- VS Code
 - Pandas
 - NumPy
 - Matplotlib
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Dataset:** Bank Marketing Dataset
 
@@ -39,7 +39,7 @@ The dataset contains customer information collected during direct marketing camp
 
 ---
 
-## 📊 Exploratory Data Analysis Performed
+##  Exploratory Data Analysis Performed
 
 - Data loading
 - Dataset overview
@@ -58,7 +58,7 @@ The dataset contains customer information collected during direct marketing camp
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 Some of the visualizations included are:
 
@@ -71,7 +71,7 @@ Some of the visualizations included are:
 
 ---
 
-## 📚 Key Learning Outcomes
+##  Key Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -85,7 +85,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Feature engineering
 - Feature selection
@@ -94,7 +94,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ayesha Iqbal**
 
